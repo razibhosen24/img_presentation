@@ -1,0 +1,253 @@
+
+
+/*font start*/
+@font-face{
+	font-family: PTSans-Regular;
+	src: url(../fonts/ptsans/PTSans-Regular.ttf);
+	
+}
+
+@font-face{
+	font-family: PTSans-Bold;
+	src: url(../fonts/ptsans/PTSans-Bold.ttf);
+	
+}
+/*font end*/
+
+/*common start*/
+body {
+	font-family: PTSans-Regular;
+	font-size: 16px;
+	font-weight: 400;
+	color: #111; 
+
+}
+
+.cmn-h-w{
+	width: 536px;
+	height: 457px;
+}
+
+.cmn-h-w-2{
+	width: 536px;
+	height: 536px;
+}
+
+.img-cmn-h-w-2{
+	width: 460px;
+	height: 460px;
+}
+
+.img-cmn-h-w-3{
+	width: 500px;
+	height: 500px;
+}
+/*common end*/
+
+/*header start*/
+header {}
+/*header end*/
+
+/*1st exmpl*/
+.exmpl-1{
+	text-transform: uppercase;
+}
+.img-prsnttn{
+	position: relative;
+}
+.img-brdr{
+	border: 2px solid #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.cntnt-img{
+	position: absolute;
+	top: -8%;
+	left: -8%;
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+/*1st exmpl*/
+
+/*2ndexmpl*/
+.img-prsnttn2{
+	position: relative;
+}
+.img-brdr2{
+	border: 2px solid #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.cntnt-img2{
+	position: absolute;
+	top: 8%;
+	left: 8%;
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+/*2nd exmpl*/
+
+/*3rd exmpl*/
+.img-prsnttn3{
+	position: relative;
+}
+.img-brdr3{
+	border: 2px dotted #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.cntnt-img3{
+	position: absolute;
+	top: -8%;
+	left: -8%;
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+/*3rd exmpl*/
+
+/*4th exmpl*/
+.img-prsnttn4{
+	position: relative;
+}
+.img-brdr4{
+	border: 2px dotted #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.cntnt-img4{
+	position: absolute;
+	top: 8%;
+	left: 8%;
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+/*4th exmpl*/
+
+/*5th exmpl*/
+.img-prsnttn5{
+	position: relative;
+}
+.cntnt-img5{
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.img-brdr5{
+	position: absolute;
+	top: -4%;
+    left: -4%;
+	border: 2px solid #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+
+/*5th exmpl*/
+
+/*6 exmpl*/
+.img-prsnttn6{
+	position: relative;
+}
+.cntnt-img6{
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.img-brdr6{
+	position: absolute;
+	top: 4%;
+    left: 4%;
+	border: 2px solid #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+
+/*6 exmpl*/
+
+/*7th exmpl*/
+.img-prsnttn7{
+	position: relative;
+}
+.cntnt-img7{
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.img-brdr7{
+	position: absolute;
+	top: -4%;
+    left: -4%;
+	border: 2px dotted #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+
+/*7th exmpl*/
+
+/*8th exmpl*/
+.img-prsnttn8{
+	position: relative;
+}
+.cntnt-img8{
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 100px 0;
+	text-align: center;
+}
+.img-brdr8{
+	position: absolute;
+	top: 4%;
+    left: 4%;
+	border: 2px dotted #CAA892;
+	border-radius: 100px 0;
+	text-align: center;
+}
+
+/*8th exmpl*/
+
+/*9th exmpl*/
+.img-prsnttn9{}
+.img-brdr9{
+	border: 2px solid #CAA892;
+	border-radius: 50%;
+}
+.cntnt-img9{
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 50%;
+}
+/*9th exmpl*/
+
+/*10th exmpl*/
+.img-prsnttn10{}
+.img-brdr10{
+	border: 2px dotted #CAA892;
+	border-radius: 50%;
+}
+.cntnt-img10{
+	background: url(../images/cntnt.jpg)
+	no-repeat center center;
+	background-size: cover;
+	border-radius: 50%;
+	box-shadow: -2px 2px 35px 10px rgba(0,0,0,0.15);
+}
+/*10th exmpl*/
